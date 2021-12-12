@@ -10,7 +10,7 @@ Baixar e instalar a ultima versão do Python: https://www.python.org/downloads/
 No VSCode: 
 Installar a extensão do Python: ms-python.python
 
-Abrir o terminal e digitar os seguinte comandos:
+Abrir o terminal e digitar os seguinte comandos:                    
 --> pip install Flask                                                                                                                 
 --> pip install flask-sqlalchemy
 
